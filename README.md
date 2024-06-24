@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 <br clear="both">
 
 <p align="left">Hello, I'm Pruthak Jani! I'm a passionate AI-ML student at L.D. College of Engineering with a keen interest in Artificial Intelligence, Machine Learning, Data Science and Robotics. My journey is all about blending theoretical knowledge 📚  with practical applications 🛠️ to solve real-world problems.<br><br>🔍 Exploring: AI, ML, and Data Science, Open Source, Computer Science and Robotics <br>💻 Proficient in Python  🐍, C, TensorFlow, OpenCV, MySQL  🗄️, and more<br>🚀 Learning: Cloud Computing, Deep Learning, NLP, Computer Vision<br>🌱 Goal: To build intelligent systems that make a positive impact<br>I believe in the power of technology to transform industries and improve lives. I'm constantly learning, experimenting, and sharing my progress. Let's connect and collaborate on innovative projects!</p>
