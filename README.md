@@ -3,7 +3,7 @@
 "Passionate about turning imagination into innovation." ✨🤖
 
 
----
+
 
 🌟 Welcome to my GitHub space!
 
@@ -69,6 +69,7 @@ I’m Pruthak Jani, an enthusiastic AI-ML student at L.D. College of Engineering
 </div>  
 
 
+
 🌱 Learning Goals
 
 🛠️ Currently improving my skills in:
@@ -96,10 +97,14 @@ Let’s innovate together! Reach out to collaborate or just say hi:
   <a href="https://www.hackerrank.com/profile/pruthak_jani" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Pruthak%20Jani-brightgreen?style=for-the-badge&logo=hackerrank" />
   </a>
+ <a href="https://leetcode.com/u/pruthak_jani05/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Pruthak%20Jani-orange?style=for-the-badge&logo=leetcode" />
+  </a>
   <a href="mailto:pruthak.jani@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-pruthak.jani@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </div>  
+
 
 
 📊 GitHub Stats
@@ -108,6 +113,7 @@ Let’s innovate together! Reach out to collaborate or just say hi:
   <img src="https://github-readme-stats.vercel.app/api?username=pruthakjani5&show_icons=true&theme=radical" height="180" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthakjani5&layout=compact&theme=radical" height="180" alt="Top languages" />
 </div>  
+
 
 
 ✨ "The future belongs to those who learn, innovate, and inspire."
