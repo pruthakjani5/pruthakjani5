@@ -1,4 +1,4 @@
-# Hi there, I'm Pruthak Jani! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+## Hi there, I'm Pruthak Jani! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 "Passionate about turning imagination into innovation." ✨🤖
 
@@ -29,7 +29,7 @@ I’m Pruthak Jani, an enthusiastic AI-ML student at L.D. College of Engineering
 
 🚀 Exploring Cloud Platforms, NLP, and Reinforcement Learning.
 
-🔒 Diving deeper into Cybersecurity and Optimization Techniques.
+🔒 Diving deeper into Cybersecurity, Optimization Techniques and Agile Software Development.
 
 
 🧠 I believe in:
@@ -67,7 +67,7 @@ I’m Pruthak Jani, an enthusiastic AI-ML student at L.D. College of Engineering
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
 </div>  
----
+
 
 🌱 Learning Goals
 
@@ -100,7 +100,7 @@ Let’s innovate together! Reach out to collaborate or just say hi:
     <img src="https://img.shields.io/badge/Email-pruthak.jani@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </div>  
----
+
 
 📊 GitHub Stats
 
@@ -108,7 +108,7 @@ Let’s innovate together! Reach out to collaborate or just say hi:
   <img src="https://github-readme-stats.vercel.app/api?username=pruthakjani5&show_icons=true&theme=radical" height="180" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthakjani5&layout=compact&theme=radical" height="180" alt="Top languages" />
 </div>  
----
+
 
 ✨ "The future belongs to those who learn, innovate, and inspire."
 
