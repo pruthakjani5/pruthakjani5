@@ -1,4 +1,4 @@
-## Hi there, I'm Pruthak Jani! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+## Hi there, I'm Pruthak Jani! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 "Passionate about turning imagination into innovation." ✨🤖
 
@@ -93,9 +93,6 @@ Let’s innovate together! Reach out to collaborate or just say hi:
 <div align="center">
   <a href="https://www.linkedin.com/in/pruthak-jani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pruthak%20Jani-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/pruthak_jani" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Pruthak%20Jani-brightgreen?style=for-the-badge&logo=hackerrank" />
   </a>
  <a href="https://leetcode.com/u/pruthak_jani05/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Pruthak%20Jani-orange?style=for-the-badge&logo=leetcode" />
